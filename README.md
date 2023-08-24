@@ -19,15 +19,15 @@ Example Response:
     {
         "title": "Tobi",
         "author": {
-            "username": "sample_user"
+            "username": "user1"
         },
         "date_posted": "2023-08-20",
         "body": "The man is the best",
         "comment": [
             {
-                "name": "Dr. Chidi Ugwu - Atlanta Georgia",
-                "post": "tobi",
-                "comment": "shit biscuit",
+                "name": "John Doe",
+                "post": "First Post",
+                "comment": "this claim is false",
                 "date_posted": "2023-08-20"
             }
         ]
@@ -59,7 +59,7 @@ Example Response:
         {
             "name": "Dr. Chidi Ugwu - Atlanta Georgia",
             "post": "tobi",
-            "comment": "shit biscuit",
+            "comment": "This claim is true",
             "date_posted": "2023-08-20"
         }
     ]
